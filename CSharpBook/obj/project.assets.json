@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Yogesh\\.nuget\\packages\\": {}
+    "C:\\Users\\deepa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Source Code\\GIT\\Yogesh\\Playground\\CSharpBook\\CSharpBook\\CSharpBook.csproj",
+      "projectUniqueName": "C:\\Users\\deepa\\Documents\\GitHub\\CSharpBook\\CSharpBook\\CSharpBook.csproj",
       "projectName": "CSharpBook",
-      "projectPath": "E:\\Source Code\\GIT\\Yogesh\\Playground\\CSharpBook\\CSharpBook\\CSharpBook.csproj",
-      "packagesPath": "C:\\Users\\Yogesh\\.nuget\\packages\\",
-      "outputPath": "E:\\Source Code\\GIT\\Yogesh\\Playground\\CSharpBook\\CSharpBook\\obj\\",
+      "projectPath": "C:\\Users\\deepa\\Documents\\GitHub\\CSharpBook\\CSharpBook\\CSharpBook.csproj",
+      "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\deepa\\Documents\\GitHub\\CSharpBook\\CSharpBook\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Yogesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\deepa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
