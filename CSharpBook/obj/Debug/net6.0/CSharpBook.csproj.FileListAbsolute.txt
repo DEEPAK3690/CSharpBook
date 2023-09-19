@@ -28,3 +28,17 @@ E:\Source Code\GIT\Yogesh\Playground\CSharpBook\CSharpBook\obj\Debug\net6.0\refi
 E:\Source Code\GIT\Yogesh\Playground\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.pdb
 E:\Source Code\GIT\Yogesh\Playground\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.genruntimeconfig.cache
 E:\Source Code\GIT\Yogesh\Playground\CSharpBook\CSharpBook\obj\Debug\net6.0\ref\CSharpBook.dll
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\bin\Debug\net6.0\CSharpBook.exe
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\bin\Debug\net6.0\CSharpBook.deps.json
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\bin\Debug\net6.0\CSharpBook.runtimeconfig.json
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\bin\Debug\net6.0\CSharpBook.dll
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\bin\Debug\net6.0\CSharpBook.pdb
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.AssemblyInfoInputs.cache
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.AssemblyInfo.cs
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.csproj.CoreCompileInputs.cache
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.dll
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\obj\Debug\net6.0\refint\CSharpBook.dll
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.pdb
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\obj\Debug\net6.0\CSharpBook.genruntimeconfig.cache
+C:\Users\deepa\Documents\GitHub\CSharpBook\CSharpBook\obj\Debug\net6.0\ref\CSharpBook.dll
